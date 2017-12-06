@@ -6,7 +6,7 @@ This is the code for the numerics for paper
 
 
 Krešimir Kumerički, Timon Mede and Ivica Picek, 
-Rnormalizable SU(5) Completions of a Zee-type Neutrino Mass Model
+Renormalizable SU(5) Completions of a Zee-type Neutrino Mass Model
 [arXiv:1712.?????](http://arxiv.org/abs/1712.?????).
 
 
