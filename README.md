@@ -7,7 +7,7 @@ This is the code for the numerics for paper
 
 Krešimir Kumerički, Timon Mede and Ivica Picek, 
 Renormalizable SU(5) Completions of a Zee-type Neutrino Mass Model
-[arXiv:1712.?????](http://arxiv.org/abs/1712.?????).
+[arXiv:1712.05246](http://arxiv.org/abs/1712.05246).
 
 
 Jupyter/Python notebook ``BPRGUT.ipynb`` produces many results
